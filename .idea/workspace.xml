@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e2b38d-97a3-43d1-bd79-5e5d231d824b" name="Changes" comment="&quot;Creando el esquelto de las clases Conjunto y TestConjunto&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67e2b38d-97a3-43d1-bd79-5e5d231d824b" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -46,7 +47,7 @@
       <recent name="C:\Users\labf403\PycharmProjects\KataTDD\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
@@ -129,13 +130,22 @@
       <option name="project" value="LOCAL" />
       <updated>1738879317226</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1738879824890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738879824890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C onfiguracion ktatdd" />
     <MESSAGE value="&quot;Creando el esquelto de las clases Conjunto y TestConjunto&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Creando el esquelto de las clases Conjunto y TestConjunto&quot;" />
+    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
